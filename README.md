@@ -1,6 +1,6 @@
 <img src="abx.png" weight="80" height="80">
 
-<a href="https://www.instagram.com/anasbex_/?hl=id" target="blank"><img align="center" src="img/dwn.png" alt="AnasBex" height="40" width="120" /></a>
+<a href="https://www.instagram.com/anasbex_/?hl=id" target="blank"><img align="center" src="img/dwn.png" alt="AnasBex" height="30" width="120" /></a>
 
 
 # Abx-VT
@@ -14,10 +14,13 @@ Dan Anda juga bisa menjalankan nya Di Live YouTube, Virtual YouTuber,VTuber
 Aplikasi ini dibuat oleh Anas Bex Development
 ©2023 - AnasBex Development
 
+Enjoy My App :)
+
 # Fitur Sekarang
 - Import Custom Image
 - Remove Background Green Screen
 
 # Fitur Yang Akan Datang
 - Real-time Audio
+- Custom Background Main
 - APNG Animated PNG
