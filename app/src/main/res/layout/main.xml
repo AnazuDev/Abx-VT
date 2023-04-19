@@ -1,0 +1,165 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<ScrollView
+		android:id="@+id/vscroll1"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:background="#1A1D26">
+		<LinearLayout
+			android:id="@+id/linearBase"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:orientation="vertical">
+			<LinearLayout
+				android:id="@+id/linearBaseLogo"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:gravity="center_vertical"
+				android:orientation="horizontal">
+				<ImageView
+					android:id="@+id/imageview1"
+					android:layout_width="20dp"
+					android:layout_height="20dp"
+					android:src="@drawable/abx"
+					android:scaleType="fitStart" />
+				<TextView
+					android:id="@+id/textVersion"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:padding="4dp"
+					android:text="abx.vt.version_( v.1.0.1.b ) v.code - 10"
+					android:textSize="12sp"
+					android:textColor="#BDBDBD" />
+			</LinearLayout>
+			<LinearLayout
+				android:id="@+id/linearOption"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:gravity="center_horizontal|center_vertical"
+				android:orientation="vertical">
+				<LinearLayout
+					android:id="@+id/linear7"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:padding="8dp"
+					android:gravity="center_horizontal|center_vertical"
+					android:orientation="horizontal">
+					<Button
+						android:id="@+id/pickimg"
+						android:layout_width="180dp"
+						android:layout_height="40dp"
+						android:padding="4dp"
+						android:background="#222430"
+						android:text="Pick Avatar png"
+						android:textSize="12sp"
+						android:textColor="#B2B3B7" />
+				</LinearLayout>
+				<LinearLayout
+					android:id="@+id/linear5"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:orientation="vertical">
+					<LinearLayout
+						android:id="@+id/linear8"
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:padding="4dp"
+						android:background="#222430"
+						android:orientation="horizontal">
+						<TextView
+							android:id="@+id/textTools"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:padding="8dp"
+							android:text="Tools ABX"
+							android:textSize="14sp"
+							android:textColor="#EEEEEE" />
+					</LinearLayout>
+					<LinearLayout
+						android:id="@+id/linear9"
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:padding="4dp"
+						android:orientation="horizontal">
+						<Switch
+							android:id="@+id/switchRemove"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:padding="8dp"
+							android:text="RemoveBG"
+							android:textSize="12sp"
+							android:textColor="#B2B3B7" />
+					</LinearLayout>
+				</LinearLayout>
+				<LinearLayout
+					android:id="@+id/linear6"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:padding="8dp"
+					android:orientation="horizontal" />
+				<LinearLayout
+					android:id="@+id/linear12"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:padding="8dp"
+					android:gravity="center_horizontal"
+					android:orientation="horizontal">
+					<Button
+						android:id="@+id/OnMain"
+						android:layout_width="180dp"
+						android:layout_height="40dp"
+						android:padding="4dp"
+						android:background="#222430"
+						android:text="Running ABX-VT!"
+						android:textSize="12sp"
+						android:textColor="#B2B3B7" />
+					<Button
+						android:id="@+id/OffMain"
+						android:layout_width="180dp"
+						android:layout_height="40dp"
+						android:padding="4dp"
+						android:background="#222430"
+						android:text="Stop ABX-VT!"
+						android:textSize="12sp"
+						android:textColor="#B2B3B7" />
+				</LinearLayout>
+			</LinearLayout>
+			<LinearLayout
+				android:id="@+id/linear10"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:orientation="vertical">
+				<LinearLayout
+					android:id="@+id/linear11"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:padding="8dp"
+					android:background="#222430"
+					android:orientation="horizontal">
+					<TextView
+						android:id="@+id/textNote"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:padding="4dp"
+						android:text="Note :"
+						android:textSize="14sp"
+						android:textColor="#EEEEEE" />
+				</LinearLayout>
+				<TextView
+					android:id="@+id/textCaption"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:padding="8dp"
+					android:text="Cap"
+					android:textSize="12sp"
+					android:textColor="#B2B3B7" />
+			</LinearLayout>
+		</LinearLayout>
+	</ScrollView>
+</LinearLayout>

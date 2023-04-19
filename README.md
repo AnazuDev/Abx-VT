@@ -1,3 +1,5 @@
+<img src="abx.png" weight="80" height="80">
+
 # Abx-VT
 Abx-VT Virtual YouTuber and Vtuber Android
 
@@ -15,4 +17,4 @@ Aplikasi ini dibuat oleh Anas Bex Development
 
 # Fitur Yang Akan Datang
 - Real-time Audio
-- APNG Animated Png
+- APNG Animated PNG
