@@ -19,10 +19,10 @@ Enjoy My App :)
 # Fitur Sekarang
 - Import Custom Image
 - Remove Background Green Screen
+- Editor Layout
 
 # Fitur Yang Akan Datang
 - Real-time Audio
 - Custom Background Main
 - APNG Animated PNG
 - Editor Objek
-- Editor Layout
