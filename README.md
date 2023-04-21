@@ -1,10 +1,11 @@
 <img src="abx.png" weight="80" height="80">
 
-<a href="https://www.instagram.com/anasbex_/?hl=id" target="blank"><img align="center" src="img/dwn.png" alt="AnasBex" height="30" width="120" /></a>
+<a href="https://github.com/AnazuDev/Abx-VT/raw/main_2/ABX-VT_v.10_1.0.1-beta.apk" target="blank"><img align="center" src="img/dwn.png" alt="AnasBex" height="30" width="120" /></a>
 
 
 # Abx-VT
 Abx-VT Virtual YouTuber and Vtuber Android
+-v.1.0.1.beta
 
 Tujuan ABX-VT Menjalankan Objek Mengambang Di Depan Home Ponsel
 Dan Juga bisa Di Tempat Tertentu Seperti Anda sedang memainkan game,
