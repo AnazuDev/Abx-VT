@@ -1,6 +1,6 @@
-<img src="abx.png" weight="80" height="80">
+<img src="https://abx-eight.vercel.app/res/abx_lg.png" weight="120" height="120">
 
-<a href="https://github.com/AnazuDev/Abx-VT/raw/main_2/ABX-VT_v.10_1.0.1-beta.apk" target="blank"><img align="center" src="img/dwn.png" alt="AnasBex" height="30" width="120" /></a>
+<a href="https://abx-eight.vercel.app/" target="blank"><img align="center" src="img/dwn.png" alt="AnasBex" height="30" width="120" /></a>
 
 
 # Abx-VT
