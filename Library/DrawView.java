@@ -1,5 +1,7 @@
 package com.anasbex.abxvt;
 
+//Library Eraser Background Auto and Menual Draw
+
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
@@ -25,9 +27,9 @@ import android.widget.LinearLayout;
 import java.lang.ref.WeakReference;
 import java.util.Stack;
 
-import static com.amirsinaiz.eraser.DrawView.DrawViewAction.AUTO_CLEAR;
-import static com.amirsinaiz.eraser.DrawView.DrawViewAction.MANUAL_CLEAR;
-import static com.amirsinaiz.eraser.DrawView.DrawViewAction.ZOOM;
+import static com.anasbex.abxvt.DrawView.DrawViewAction.AUTO_CLEAR;
+import static com.anasbex.abxvt.DrawView.DrawViewAction.MANUAL_CLEAR;
+import static com.anasbex.abxvt.DrawView.DrawViewAction.ZOOM;
 
 public class DrawView extends View {
 
