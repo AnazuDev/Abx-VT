@@ -29,6 +29,6 @@ Enjoy My App :)
 - Editor Objek
 - Background Eraser Auto
 
-#Fitur Yang Telah Siap!
+# Fitur Yang Telah Siap!
 - Background Eraser Auto √
 - Editor Objek √
