@@ -27,3 +27,8 @@ Enjoy My App :)
 - Custom Background Main
 - APNG Animated PNG
 - Editor Objek
+- Background Eraser Auto
+
+#Fitur Yang Telah Siap!
+- Background Eraser Auto √
+- Editor Objek √
