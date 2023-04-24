@@ -98,4 +98,3 @@ class ProgramInformation(XMLNode):
         write_child_node(xmlnode, 'Title', self.titles)
         write_child_node(xmlnode, 'Source', self.sources)
         write_child_node(xmlnode, 'Copyright', self.copyrights)
-
